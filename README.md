@@ -39,7 +39,6 @@ With the high quantity of music being released in this digital age, Music Genre 
     - [Metrics](#metrics)
   - [Results](#results)
 - [Model Examination](#model-examination)
-- [Environmental Impact](#environmental-impact)
 - [Technical Specifications](#technical-specifications-optional)
   - [Model Architecture and Objective](#model-architecture-and-objective)
   - [Compute Infrastructure](#compute-infrastructure)
@@ -171,25 +170,9 @@ During training, the model was also used with cross-validation.
 
 ## Results 
 
-More information needed
 
 # Model Examination
 
-More information needed
-
-# Environmental Impact
-
-<!-- Total emissions (in grams of CO2eq) and additional considerations, such as electricity usage, go here. Edit the suggested text below accordingly -->
-
-Carbon emissions can be estimated using the [Machine Learning Impact calculator](https://mlco2.github.io/impact#compute) presented in [Lacoste et al. (2019)](https://arxiv.org/abs/1910.09700).
-
-- **Hardware Type:** More information needed
-- **Hours used:** More information needed
-- **Cloud Provider:** More information needed
-- **Compute Region:** More information needed
-- **Carbon Emitted:** More information needed
-
-# Technical Specifications [optional]
 
 ## Model Architecture and Objective
 
