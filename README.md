@@ -130,7 +130,13 @@ The training data used was from Free Music Archive&#39;s open dataset GitHub pag
 
 ### Preprocessing
 
-More information needed
+The preprocessing of the FMA dataset involved several key steps to prepare the data for the audio genre classification and energy level prediction model. The primary focus was on selecting data with corresponding genre labels and energy levels, as well as handling missing values. The following is a description of the preprocessing steps:
+
+   1. Data selection: The first step in preprocessing the FMA dataset was to identify the music tracks that had both genre labels and energy levels associated with them. This was crucial for ensuring that the model could be trained on relevant data with the required target variables. To achieve this, we filtered the dataset to retain only those records that contained information about the track's genre and energy level.
+
+  2. Handling missing values: After selecting the relevant records, we inspected the dataset for missing values, also known as NaN (Not a Number) values. These missing values can adversely impact the model's performance and lead to inaccuracies in predictions. To address this issue, we removed records containing NaN values in either the genre label or energy level. This step ensured that the model would be trained on a clean and complete dataset, improving the overall quality of the predictions.
+
+By focusing on data selection and handling missing values, we effectively preprocessed the FMA dataset for use in the audio genre classification and energy level prediction model. This preprocessing stage was essential for optimizing the model's performance and ensuring accurate results.
 
 ### Speeds, Sizes, Times
 
