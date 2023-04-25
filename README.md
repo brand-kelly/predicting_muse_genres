@@ -171,7 +171,6 @@ During training, the model was also used with cross-validation.
 
 
 # Model Examination
-SGD Computational Experiment
 ![SGD Computational Experiment](https://github.com/brand-kelly/predicting_music_genres/blob/main/comp_exp_sgd.png)
 ![Weight Decay Computational Experiment](https://github.com/brand-kelly/predicting_music_genres/blob/main/comp_exp_wd.png)
 
