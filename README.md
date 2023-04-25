@@ -138,6 +138,8 @@ The preprocessing of the FMA dataset involved several key steps to prepare the d
 
 By focusing on data selection and handling missing values, we effectively preprocessed the FMA dataset for use in the audio genre classification and energy level prediction model. This preprocessing stage was essential for optimizing the model's performance and ensuring accurate results.
 
+In addition, FMA's dataset also provided subsets of the data that was already split into training, validation, and test splits.
+
 ### Speeds, Sizes, Times
 
 <!-- This section provides information about throughput, start/end time, checkpoint size if relevant, etc. -->
@@ -154,20 +156,25 @@ More information needed
 
 <!-- This should link to a Data Card if possible. -->
 
-More information needed
+Testing data was supplied by FMA's dataset which was predifined by the dataset. The testing data had the associated track_id and the top_level genres to compare the true and pred values with cross entropy loss.
 
+During training, the model was also used with cross-validation.
 
 ### Factors
 
 <!-- These are the things the evaluation is disaggregating by, e.g., subpopulations or domains. -->
 
-More information needed
+
 
 ### Metrics
 
 <!-- These are the evaluation metrics being used, ideally with a description of why. -->
+#### Classification Metrics
+- accuracy and Cross-Entropy Loss
 
-More information needed
+#### Regression metrics
+- accuracy and Mean Squared Error
+
 
 ## Results 
 
@@ -193,7 +200,7 @@ Carbon emissions can be estimated using the [Machine Learning Impact calculator]
 
 ## Model Architecture and Objective
 
-Multi-layers Convolutional Recurrent Neural Network.
+Multi-layered Convolutional Recurrent Neural Network.
 
 ## Compute Infrastructure
 
