@@ -64,7 +64,7 @@ With the high quantity of music being released in this digital age, Music Genre 
     - Wenhan Lee
 - **Model type:** Audio Classification & Energy Prediction model
 - **Language(s) (NLP):** en
-- **License:** mit
+- **License:** Creative Commons Attribution-NonCommercial-NoDerivatives (cc-by-nc-nd-4.0)
 - **Resources for more information:**
     - [FMA's GitHub Repo](https://github.com/mdeff/fma)
     - [FMA's Associated Paper](https://arxiv.org/abs/1612.01840)
