@@ -47,8 +47,6 @@ With the high quantity of music being released in this digital age, Music Genre 
     - [Hardware](#hardware)
     - [Software](#software)
 - [Citation](#citation)
-- [Glossary [optional]](#glossary-optional)
-- [More Information [optional]](#more-information-optional)
 - [Model Card Authors [optional]](#model-card-authors-optional)
 - [Model Card Contact](#model-card-contact)
 - [How to Get Started with the Model](#how-to-get-started-with-the-model)
@@ -228,17 +226,7 @@ Multi-layered Convolutional Recurrent Neural Network.
 
 **APA:**
 
-# Glossary [optional]
-
-<!-- If relevant, include terms and calculations in this section that can help readers understand the model or model card. -->
-
-More information needed
-
-# More Information [optional]
-
-More information needed
-
-# Model Card Authors [optional]
+# Model Card Authors
 
 <!-- This section provides another layer of transparency and accountability. Whose views is this model card representing? How many voices were included in its construction? Etc. -->
 
@@ -255,6 +243,5 @@ Use the code below to get started with the model.
 <details>
 <summary> Click to expand </summary>
 
-More information needed
 
 </details>
