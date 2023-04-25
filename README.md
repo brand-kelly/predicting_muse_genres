@@ -57,12 +57,12 @@ With the high quantity of music being released in this digital age, Music Genre 
 <!-- Provide a longer summary of what this model is/does. -->
 With the high quantity of music being released in this digital age, Music Genre Recognition (MGR) has become an increasingly important task. Many existing MGR models using deep learning have demonstrated success in classifying songs from their audio files. However, we wanted to create a deep learning model that would not only be limited to MGR, but can also predict the energy rating of a song. We believe that such a network could have an additional practical use regarding user recommendations, as the combination of genre and energy level can be an important factor of one’s choice of music.
 
-- **Developed by:** More information needed
+- **Developed by:**
     - Anaya Mehta
     - Brandon Kelly
     - Yun Luk Liu
     - Wenhan Lee
-- **Model type:** Language model
+- **Model type:** Audio Classification & Energy Prediction model
 - **Language(s) (NLP):** en
 - **License:** mit
 - **Resources for more information:**
