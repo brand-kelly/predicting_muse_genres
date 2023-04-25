@@ -103,10 +103,9 @@ Audio recognition outside of music, generating new audio, music identification, 
 ## Recommendations
 <!-- This section is meant to convey recommendations with respect to the bias, risk, and technical limitations. -->
 - Combine the FMA dataset with other music datasets to create a broader and diverse dataset that covers more genres and other features.
-![Training graph](https://github.com/brand-kelly/predicting_music_genres/blob/main/best_model.png)
 
 # Training Details
-
+![Training graph](https://github.com/brand-kelly/predicting_music_genres/blob/main/best_model.png)
 ## Training Data
 
 <!-- This should link to a Data Card, perhaps with a short stub of information on what the training data is all about as well as documentation related to data pre-processing or additional filtering. -->
