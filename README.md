@@ -191,17 +191,20 @@ Multi-layers Convolutional Recurrent Neural Network.
 
 ## Compute Infrastructure
 
-CPU: Colab&#39;s virtual machine with modern multi-core CPUs.
-RAM: 12 GB ram
-Storage: Google Drive
-
 ### Hardware
-
-More information needed
+- CPU: Google Colab's provided base CPU
+- RAM: Google Colab's provided base 12GB RAM
 
 ### Software
-
-More information needed
+- Jupyter Notebook
+- PyTorch
+- NumPy
+- Pandas
+- SciPy
+- Librosa
+- Matplotlib
+- IPython
+- Sklearn
 
 # Citation
 
@@ -209,11 +212,8 @@ More information needed
 
 **BibTeX:**
 
-More information needed
 
 **APA:**
-
-More information needed
 
 # Glossary [optional]
 
