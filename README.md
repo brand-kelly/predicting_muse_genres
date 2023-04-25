@@ -153,7 +153,25 @@ During training, the model was also used with cross-validation.
 ### Factors
 
 <!-- These are the things the evaluation is disaggregating by, e.g., subpopulations or domains. -->
+#### Input features
+- MFCCs
+- Echonest energy attributes
 
+#### Model Architecture
+- 1D CNN layer
+- LSTM layer
+- Fully connected layers
+- 1D Maxpool Layers
+
+
+#### Hyperparameters
+- Learning rate: 1e-3
+- Number of LSTM layers: 1
+
+#### Regularization
+- Dropout: p=0.50
+- Early Stopping
+- Batch normalization
 
 
 ### Metrics
@@ -167,6 +185,14 @@ During training, the model was also used with cross-validation.
 
 
 ## Results 
+
+### Performance on Test Data
+- Loss: 1.22
+- Accuracy: 59.48%
+
+### Performance on Validation Data
+- Loss 1.35
+- Accuracy: 58.71%
 
 
 # Model Examination
