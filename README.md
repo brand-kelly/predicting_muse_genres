@@ -91,15 +91,21 @@ Audio recognition outside of music, generating new audio, music identification, 
 # Bias, Risks, and Limitations
 
 <!-- This section is meant to convey both technical and sociotechnical limitations. -->
+### Bias
+- Uneven representation of genres since some subsets of the data have more genres in common than others.
+- Data was not fully complete and some songs by Echonest were not analyzed.
+- Genres and Energy are both subjective.
+- Biases are from Echonest's analysis of the data. Since we are not completely sure how or what Echonest used to obtain energy levels of the songs with different factors, it could be more one sides to certain genres versus others.
 
-
+### Risks
+- The model may have potentially overfitted due to the size of the dataset used.
+- Biases in the data.
+- Limited generalizability since we only used the FMA dataset to train the model.
+- Data quality issues since some of the data had NaN values and were not analyzed for energy or some missing energy analyization by Echonest.
 
 ## Recommendations
-
 <!-- This section is meant to convey recommendations with respect to the bias, risk, and technical limitations. -->
-
-
-
+- Combine the FMA dataset with other music datasets to create a broader and diverse dataset that covers more genres and other features.
 
 
 # Training Details
