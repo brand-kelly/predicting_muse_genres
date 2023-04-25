@@ -45,8 +45,6 @@ With the high quantity of music being released in this digital age, Music Genre 
     - [Hardware](#hardware)
     - [Software](#software)
 - [Model Card Authors](#model-card-authors-optional)
-- [Model Card Contact](#model-card-contact)
-- [How to Get Started with the Model](#how-to-get-started-with-the-model)
 
 
 # Model Details
@@ -200,17 +198,3 @@ Multi-layered Convolutional Recurrent Neural Network.
 <!-- This section provides another layer of transparency and accountability. Whose views is this model card representing? How many voices were included in its construction? Etc. -->
 
   - Brandon Kelly
-
-# Model Card Contact
-
-More information needed
-
-# How to Get Started with the Model
-
-Use the code below to get started with the model.
-
-<details>
-<summary> Click to expand </summary>
-
-
-</details>
