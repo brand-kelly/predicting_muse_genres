@@ -172,7 +172,7 @@ During training, the model was also used with cross-validation.
 #### Classification Metrics
 - accuracy and Cross-Entropy Loss
 
-#### Regression metrics
+#### Regression Metrics
 - accuracy and Mean Squared Error
 
 
