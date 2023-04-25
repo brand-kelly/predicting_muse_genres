@@ -24,7 +24,6 @@ With the high quantity of music being released in this digital age, Music Genre 
   - [Model Description](#model-description)
 - [Uses](#uses)
   - [Direct Use](#direct-use)
-  - [Downstream Use [Optional]](#downstream-use-optional)
   - [Out-of-Scope Use](#out-of-scope-use)
 - [Bias, Risks, and Limitations](#bias-risks-and-limitations)
   - [Recommendations](#recommendations)
@@ -41,13 +40,12 @@ With the high quantity of music being released in this digital age, Music Genre 
   - [Results](#results)
 - [Model Examination](#model-examination)
 - [Environmental Impact](#environmental-impact)
-- [Technical Specifications [optional]](#technical-specifications-optional)
+- [Technical Specifications](#technical-specifications-optional)
   - [Model Architecture and Objective](#model-architecture-and-objective)
   - [Compute Infrastructure](#compute-infrastructure)
     - [Hardware](#hardware)
     - [Software](#software)
-- [Citation](#citation)
-- [Model Card Authors [optional]](#model-card-authors-optional)
+- [Model Card Authors](#model-card-authors-optional)
 - [Model Card Contact](#model-card-contact)
 - [How to Get Started with the Model](#how-to-get-started-with-the-model)
 
@@ -81,15 +79,6 @@ With the high quantity of music being released in this digital age, Music Genre 
 <!-- If the user enters content, print that. If not, but they enter a task in the list, use that. If neither, say "more info needed." -->
 
 This model could be used in music recommendation systems, music curation and organization, music synchronization, genre and energy-level-based music categorization, and more.
-
-
-## Downstream Use [Optional]
-
-<!-- This section is for the model use when fine-tuned for a task, or when plugged into a larger ecosystem/app -->
-<!-- If the user enters content, print that. If not, but they enter a task in the list, use that. If neither, say "more info needed." -->
- 
-
-
 
 ## Out-of-Scope Use
 
@@ -216,15 +205,6 @@ Multi-layered Convolutional Recurrent Neural Network.
 - Matplotlib
 - IPython
 - Sklearn
-
-# Citation
-
-<!-- If there is a paper or blog post introducing the model, the APA and Bibtex information for that should go in this section. -->
-
-**BibTeX:**
-
-
-**APA:**
 
 # Model Card Authors
 
