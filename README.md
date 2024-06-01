@@ -130,6 +130,8 @@ By focusing on data selection and handling missing values, we effectively prepro
 
 In addition, FMA's dataset also provided subsets of the data that was already split into training, validation, and test splits.
 
+This data can now be accessed directly through Spotify's API and a new update will soon be done to increase the data size.
+
 ### Speeds, Sizes, Times
 
 <!-- This section provides information about throughput, start/end time, checkpoint size if relevant, etc. -->
